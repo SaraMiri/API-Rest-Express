@@ -8,7 +8,7 @@ npm install nodemon
 
 ## To run the server
 
-Use <npm run nodemon.start>
+Use npm run nodemon.start
 
 ## To use the functions (POST, GET, DELETE & PUT)
 
