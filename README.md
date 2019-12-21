@@ -1,9 +1,9 @@
 # Practica Api with Express & Node: installation steps
 
-npm install express
-npm install mongodb
-npm install express-validator
-npm install nodemon
+npm install express <br>
+npm install mongodb <br>
+npm install express-validator <br>
+npm install nodemon <br>
 
 
 ## To run the server
